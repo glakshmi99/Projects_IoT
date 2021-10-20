@@ -1,9 +1,10 @@
 ## Kerala IoT Challenge
 Foxlab Markerspace in association with GTech brings to you: 
 Kerala IoT Challenge: Level 1 | Cohort 2. 
+
 An IoT skill development course along with a challenge to solve real industrial problems. An opportunity to learn with like-minded 100+ community members.
 An opportunity to explore the world of electronics and hardware prototyping.
----------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
