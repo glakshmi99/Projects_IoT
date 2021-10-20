@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Kerala IoT Challenge
 
-You can use the [editor on GitHub](https://github.com/glakshmi99/Projects_IoT/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Foxlab Markerspace in association with GTech brings to you: Kerala IoT Challenge: Level 1 | Cohort 2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+An IoT skill development course along with a challenge to solve real industrial problems. An opportunity to learn with like-minded 100+ community members.
+An opportunity to explore the world of electronics and hardware prototyping.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
