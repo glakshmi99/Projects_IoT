@@ -20,11 +20,11 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
     <li>Breadboard</li>
     <li>Jumper Wires (Male to Male ) X 2 Nos </li>
 </ol>
-<div>
+<div style="background-color:#FFFFFF">
  <b>Code</b>
 <p>
  <pre>
- int ledPin = 9; // define digital pin 10.<br>
+int ledPin = 9; // define digital pin 10.<br>
 void setup()
 {
 pinMode(9, OUTPUT);// define pin with LED connected as output.
@@ -38,7 +38,7 @@ delay(1000); // wait for a second
 }
 </pre>
 </p>
-</div>
+
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
