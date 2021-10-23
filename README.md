@@ -4,20 +4,21 @@ Foxlab Markerspace in association with GTech brings to you: Kerala IoT Challenge
 An IoT skill development course along with a challenge to solve real industrial problems. An opportunity to learn with like-minded 100+ community members.
 An opportunity to explore the world of electronics and hardware prototyping.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##<s>About Me</s>
+## About Me
 I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Engineerning from Mar Baselios College of  Engineering and Technology, Trivandrum. I'm very much interested in the field of IoT and I'm new to this. Hence, as a beginner, I joined for this Bootcamp.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### <u> Level 1 </u>
-<h2><u> Experiment-1<u> </h2>
-  <h3>Hello World LED Blinking</h3>
-  <b>Components Required</b>
-    Arduino Uno Board
-    USB Cable
-    LED (Any Color) x 1 Nos
-    220 OHM Resistor X 1 Nos
-    Breadboard
-    Jumper Wires (Male to Male ) X 2 Nos
+<h1> Level 1 </h1>
+<h2><u> Experiment-1</u></h2>
+ <h3>Hello World LED Blinking</h3>
+ <b>Components Required</b>
+ <ol>
+  <li>Arduino Uno Board</li>
+  <li>USB Cable</li>
+  <li>LED (Any Color) x 1 Nos</li>
+   <li>220 OHM Resistor X 1 Nos</li>
+    <li>Breadboard</li>
+    <li>Jumper Wires (Male to Male ) X 2 Nos </li>
 
 
 ```markdown
