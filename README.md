@@ -20,7 +20,7 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
     <li>Breadboard</li>
     <li>Jumper Wires (Male to Male ) X 2 Nos </li>
 </ol>
-<div style="background-color:#FFFFFF">
+<div>
  <b>Code</b>
 <p>
  <pre>
