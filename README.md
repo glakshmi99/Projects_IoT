@@ -21,8 +21,8 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
     <li>Jumper Wires (Male to Male ) X 2 Nos </li>
 </ol>
 <div>
- <h4>Code</h4>
-<p>
+ <b>Code</b>
+<span>
  int ledPin = 9; // define digital pin 10.
 void setup()
 {
@@ -35,7 +35,7 @@ delay(1000); // wait for a second.
 digitalWrite(9, LOW); // set the LED off.
 delay(1000); // wait for a second
 }
- </p>
+ </span>
 </div>
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
