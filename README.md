@@ -23,19 +23,21 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
 <div>
  <b>Code</b>
 <p>
+ <pre>
  int ledPin = 9; // define digital pin 10.<br>
-void setup()<br>
+void setup()
 {
-pinMode(9, OUTPUT);// define pin with LED connected as output.,<br>
-}<br>
-void loop()<br>
-{
-digitalWrite(9, HIGH); // set the LED on.<br>
-delay(1000); // wait for a second.<br>
-digitalWrite(9, LOW); // set the LED off.<br>
-delay(1000); // wait for a second<br>
+pinMode(9, OUTPUT);// define pin with LED connected as output.
 }
-
+void loop()
+{
+digitalWrite(9, HIGH); // set the LED on.
+delay(1000); // wait for a second.
+digitalWrite(9, LOW); // set the LED off.
+delay(1000); // wait for a second
+}
+</pre>
+</p>
 </div>
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
