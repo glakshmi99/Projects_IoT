@@ -19,7 +19,24 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
    <li>220 OHM Resistor X 1 Nos</li>
     <li>Breadboard</li>
     <li>Jumper Wires (Male to Male ) X 2 Nos </li>
-
+</ol>
+<div>
+ <h4>Code</h4>
+<p>
+ int ledPin = 9; // define digital pin 10.
+void setup()
+{
+pinMode(9, OUTPUT);// define pin with LED connected as output.
+}
+void loop()
+{
+digitalWrite(9, HIGH); // set the LED on.
+delay(1000); // wait for a second.
+digitalWrite(9, LOW); // set the LED off.
+delay(1000); // wait for a second
+}
+ </p>
+</div>
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
