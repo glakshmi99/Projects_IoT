@@ -22,18 +22,18 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
 </ol>
 <div>
  <b>Code</b>
-<br>
- int ledPin = 9; // define digital pin 10.
-void setup()
+<p>
+ int ledPin = 9; // define digital pin 10.<br>
+void setup()<br>
 {
-pinMode(9, OUTPUT);// define pin with LED connected as output.
-}
-void loop()
+pinMode(9, OUTPUT);// define pin with LED connected as output.,<br>
+}<br>
+void loop()<br>
 {
-digitalWrite(9, HIGH); // set the LED on.
-delay(1000); // wait for a second.
-digitalWrite(9, LOW); // set the LED off.
-delay(1000); // wait for a second
+digitalWrite(9, HIGH); // set the LED on.<br>
+delay(1000); // wait for a second.<br>
+digitalWrite(9, LOW); // set the LED off.<br>
+delay(1000); // wait for a second<br>
 }
 
 </div>
