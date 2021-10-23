@@ -22,21 +22,19 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ <b>Code</b>
+int ledPin = 9; // define digital pin 10.
+void setup()
+{
+pinMode(9, OUTPUT);// define pin with LED connected as output.
+}
+void loop()
+{
+digitalWrite(9, HIGH); // set the LED on.
+delay(1000); // wait for a second.
+digitalWrite(9, LOW); // set the LED off.
+delay(1000); // wait for a second
+}
 ```
 ```markdown
 Syntax highlighted code block
