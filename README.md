@@ -22,7 +22,7 @@ I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Enginee
 </ol>
 <div>
  <b>Code</b>
-<span>
+<br>
  int ledPin = 9; // define digital pin 10.
 void setup()
 {
@@ -35,7 +35,7 @@ delay(1000); // wait for a second.
 digitalWrite(9, LOW); // set the LED off.
 delay(1000); // wait for a second
 }
- </span>
+
 </div>
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
