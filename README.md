@@ -4,10 +4,30 @@ Foxlab Markerspace in association with GTech brings to you: Kerala IoT Challenge
 An IoT skill development course along with a challenge to solve real industrial problems. An opportunity to learn with like-minded 100+ community members.
 An opportunity to explore the world of electronics and hardware prototyping.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Markdown
+### About Me
+I'm G Lakshmi. I'm Pursuing my 4th year in Electronics and Communication Engineerning from Mar Baselios College of  Engineering and Technology, Trivandrum. I'm very much interested in the field of IoT and I'm new to this. Hence, as a beginner, I joined for this Bootcamp.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### <u>Level 1 </u>
+<h3> Experiment-1 </h3>
 
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 ```markdown
 Syntax highlighted code block
 
